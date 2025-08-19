@@ -1,4 +1,4 @@
-# ITMO Data Analisys tasks
+# ITMO Data Analysis tasks
 В данном репозитории содержатся 11 задач на анализ данных, которые было необходимо решить в рамках вступительного экзамена в магистратуру AI Talent Hub.
 
 [Наборы данных](https://cloud.mail.ru/public/BPjm/ovhRTm6XQ)
